@@ -16,8 +16,9 @@ public class Estudiante {
      */
     public static void main(String[] args) {
         System.out.println("Hola Estudiante");
-        System.out.println("Hola Ingeniero");
-        System.out.println("Otto estuvo aqui");
+        System.out.println("Buenas tardes ingeniero lo saluda Mario");
+        System.out.println("Esperemos que todo salga bien en este semestre");
+        System.out.println("Esperemos que todos nos vaya bien");
     }
     
 }
