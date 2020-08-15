@@ -17,7 +17,12 @@ public class Estudiante {
     public static void main(String[] args) {
         System.out.println("Hola Estudiante");
         System.out.println("Hola Ingeniero");
+     
         System.out.println("Otto estuvo aqui");
+        String verdad;
+        verdad="dentro de 15 dias hay parciales"
+    
+    
     }
     
 }
