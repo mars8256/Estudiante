@@ -20,9 +20,14 @@ public class Estudiante {
      
         System.out.println("Otto estuvo aqui");
         String verdad;
-        verdad="dentro de 15 dias hay parciales"
+        verdad="dentro de 15 dias hay parciales";
     
     
+
+        System.out.println("Buenas tardes ingeniero lo saluda Mario");
+        System.out.println("Esperemos que todo salga bien en este semestre");
+        System.out.println("Esperemos que todos nos vaya bien");
+
     }
     
 }
