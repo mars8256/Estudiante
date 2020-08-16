@@ -28,6 +28,14 @@ public class Estudiante {
         System.out.println("Esperemos que todo salga bien en este semestre");
         System.out.println("Esperemos que todos nos vaya bien");
 
+        System.out.println("Hola soy Christian");
+        System.out.println("==============");
+        System.out.println("==============");
+        System.out.println("==   ****   ==");
+        System.out.println("==  **      ==");
+        System.out.println("==   ****   ==");
+        System.out.println("==============");
+        System.out.println("==============");
     }
     
 }
